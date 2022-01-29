@@ -1,0 +1,109 @@
+/* body{
+    padding-bottom: 500px;
+} */
+
+.trolly {
+    width: 40px;
+    height: 35px;
+    margin-right: 20px;
+    margin-top: 8px;
+}
+
+.profile{
+    width: 50px;
+    height: 50px;
+    border-radius: 100%;
+}
+
+.container-main{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding-bottom: 70px;
+}
+
+.left-sessions{
+    margin-top: 50px;
+}
+
+.left-sessions .image-main{
+    display: flex;
+    margin-left: 115px;
+}
+
+.image-main img{
+    width: 370px;
+}
+
+.image-support{
+    width: 500px;
+    display: flex;
+    justify-content: center;
+    margin-left: 50px;
+}
+
+.image-support img {
+    width: 90px;
+    margin: 10px 5px;
+}
+
+.right-sessions .company{
+    font-size: 20px;
+    font-weight: bold;
+    color: orangered;
+}
+
+.title-product{
+    font-size:30px;
+    font-weight: bold;
+}
+
+.description{
+    width: 480px;
+}
+
+.price {
+    font-weight: bold;
+}
+
+.discount{
+    color: orangered;
+    background-color: rgba(255, 143, 102, 0.623);
+    padding: 2px;
+    font-size: 11px;
+    border-radius: 3px;
+}
+
+.tagdown{
+    font-weight: bold;
+    color: rgba(0, 0, 0, 0.575);
+    text-decoration: line-through;
+}
+
+.nominal-product button{
+    border: none;
+    color: orangered;
+}
+
+.input{
+    border: none;
+    width: 15px;
+    text-decoration: none;
+}
+
+.chart-main{
+    background-color: orange;
+    padding: 10px 20px;
+    margin: 0 10px;
+    border-radius: 5px;
+}
+
+.chart{
+    text-decoration: none;
+    color: white;
+}
+
+.trolly-down{
+    width: 20px;
+    height: 15px;
+}
